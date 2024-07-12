@@ -1,7 +1,7 @@
 # Waterpixels Project
 
 Authors:
-Yanis Aît El Cadi
+Yanis Aît El Cadi,
 Zakaria Chahboune
 
 This project demonstrates the use of image processing techniques to segment images into superpixels using waterpixels. The provided Jupyter notebook contains step-by-step implementations and visualizations of the process.
