@@ -1,7 +1,3 @@
-Here's a README file template for your project based on the `Waterpixels.ipynb` notebook you've uploaded. I'll provide a general structure that you can modify as needed:
-
----
-
 # Waterpixels Project
 
 This project demonstrates the use of image processing techniques to segment images into superpixels using waterpixels. The provided Jupyter notebook contains step-by-step implementations and visualizations of the process.
