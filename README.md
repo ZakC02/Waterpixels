@@ -51,6 +51,7 @@ pip install numpy opencv-python matplotlib scikit-image streamlit
    ```sh
    streamlit run streamlit_app.py
    ```
+   Or click this [link](https://zakc02-waterpixels-streamlit-app-dcjkkh.streamlit.app/)
 
 ## Notebook Overview
 The notebook includes the following sections:
