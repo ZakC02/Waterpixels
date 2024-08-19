@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 st.title('Waterpixel App')
 st.write('#### by ZakC02')
-st.write('Get a superpixel segmentation of your image using the Waterpixel algorithm')
+st.write('Get a superpixel segmentation of your image using the Watershed algorithm')
 st.write('More details can be found [here.](https://github.com/ZakC02/Waterpixels.git)')
 
 
