@@ -49,7 +49,7 @@ pip install numpy opencv-python matplotlib scikit-image streamlit
    ```
 4. To launch the Streamlit web app:
    ```sh
-   streamlit run app.py
+   streamlit run streamlit_app.py
    ```
 
 ## Notebook Overview
